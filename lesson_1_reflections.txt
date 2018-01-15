@@ -1,0 +1,7 @@
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+-> Pro: time to review code,
+
+How can you use the commands git log and git diff to view the history of files?
+---> run git log to get all the histories of commits(Date, ID, autor) and then run the git diff followed by the IDs you would like to compare.
