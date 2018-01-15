@@ -4,4 +4,16 @@ What do you think are the pros and cons of manually choosing when to create a co
 -> Pro: time to review code,
 
 How can you use the commands git log and git diff to view the history of files?
----> run git log to get all the histories of commits(Date, ID, autor) and then run the git diff followed by the IDs you would like to compare.
+---> run git log to get all the histories of commits(Date, ID, autor) and then run the git diff followed by the IDs you would like to compar
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+>>>save time 
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+>>>>>>>
+
+How might using version control make you more confident to make changes that could break something?
+
+>>>>>>>
+
