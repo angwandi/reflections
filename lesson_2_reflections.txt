@@ -1,6 +1,9 @@
 What happens when you initialize a repository? Why do you need to do it?
 
->>>>
+>>>> git init 
+shows all the file within a repository
+
+....git log : shows how many commits in a repository
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
@@ -21,3 +24,7 @@ What is the result of merging two branches together? Why do we represent it in t
 
 >>>> Update all the experiments into the master commit from variuos experiemal commits. diagrams representation helps with understanding of branch and commits.
 
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
+
+>>>>
