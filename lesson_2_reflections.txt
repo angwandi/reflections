@@ -5,3 +5,19 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 >>>> group commits for transits to edit
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+>>>>how to use git diff, git diff --stage, git commit lesson 12
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+>>> Lesson 3 coure 14,15,16. make a copy of master for testing ideas of diffrent version you would like to create witout chnaging the master. 
+
+How do the diagrams help you visualize the branch structure?
+>>>>It helps me to find the parent of a commit and hoe identify the lost commit in a branch
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+>>>> Update all the experiments into the master commit from variuos experiemal commits. diagrams representation helps with understanding of branch and commits.
+
