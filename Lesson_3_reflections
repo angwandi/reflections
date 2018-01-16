@@ -1,1 +1,52 @@
-When would you want to ctreate a remote repository rather than keeping all your work local?
+When would you want to use a remote repository rather than keeping all your work
+local?
+
+    to push from local: 
+    git remote :to create a remote
+    git remote add <name of commit> (origin if only have one remote its standards to name it origin) URL of my remote from the gitHub : to add a remote
+    git remote: to check if my remote has been added successfuly
+    git remote -v: to check if the rURL was added cprrectly 
+    git push origin master 
+
+
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+
+    Because then I am certain the update has been done and i can check on my computer.
+
+    git pull destination (origin) specify the branche the pullis coming from(master)
+
+    git pull origin master
+    
+
+Describe the differences between forks, clones, and branches.  When would you
+use one instead of another?
+
+    Forks: copy commits from gitHub to GitHub 
+    Best practice is to fork then clone then remote with new name. The commits are yours. You can update and experiment asmuch as you want to.
+
+    >>>> Click on fork in gitHub and name the commits.
+
+    Clones: get commits from GitHub to Computers.
+
+    git clone URL from GitHub (Always put in version-control)
+
+    Branches: determination of lost and captured commits
+
+
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+    Fill in your answer here
+
+How would you collaborate without using Git or GitHub?  What would be easier,
+and what would be harder?
+
+    Fill in your answer here
+
+When would you want to make changes in a separate branch rather than directly in
+master?  What benefits does each approach have?
+
+    Fill in your answer here
+
