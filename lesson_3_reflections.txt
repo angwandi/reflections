@@ -50,5 +50,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Its quiet complicated but again does pay off big time. 
+    Makin a branch which is a copy of the master helps with experimental and update without changing the master. We decide wich commit to take on board and not. 
 
